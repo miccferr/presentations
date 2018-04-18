@@ -19,6 +19,8 @@ Assuming no prior knowledge of geographic concepts, this talk with cover all the
 pip install -r requirements.txt
 ```
 
+- Set-up the [Jupyter notebook/Reveal.js](https://github.com/damianavila/RISE#option-2---using-pip-less-recommended) extension
+
 - Launch your own Juptyer notebook
 
 ```python 
