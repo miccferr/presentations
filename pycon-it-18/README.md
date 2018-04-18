@@ -1,7 +1,7 @@
 # LOCATION, LOCATION, LOCATION: 
 ## DATA VISUALISATION AND ANALYSIS OF GEOSPATIAL DATA IN PYTHON
 
-### PyCon Nove - Florence, 19<sup>th</sup>-22<sup>nd</sup>t April 2018
+### PyCon Nove - Florence, 19<sup>th</sup>-22<sup>nd</sup> April 2018
 
 Can’t distinguish your Latitude from your Longitude? Are you convinced that Dymaxion Projection is the name of an obscure Heavy Metal band? Have troubles finding your way back home even with a GPS? Congratulations, this talk is definitely for you!
 
