@@ -1,0 +1,13 @@
+.alert {
+    background: hotpink;
+    color: white;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.black {
+    background: black;
+    color: white;
+    font-weight: 800;
+    text-transform: uppercase;
+}
