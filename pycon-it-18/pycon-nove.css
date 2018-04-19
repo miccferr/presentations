@@ -1,8 +1,12 @@
+.text_cell_render.rendered_html img {
+    margin: auto
+}
+
 .alert {
     background: hotpink;
     color: white;
     font-weight: 800;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .black {
@@ -10,4 +14,10 @@
     color: white;
     font-weight: 800;
     text-transform: uppercase;
+}
+
+a {
+    background: aqua;
+    color: white;
+    text-decoration: none;
 }
